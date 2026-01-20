@@ -1,0 +1,87 @@
+body{
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    margin: 4;
+    padding: 0;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    gap: 100px;
+    background-color: blue;
+    height: fit-content;
+    padding: 10px 20px;
+    justify-content: space-around;
+    text-size-adjust: 100px;
+    margin-top: 0;
+}
+nav ul a{
+    color: white;
+}
+h1{
+    color: rgb(250, 248, 248);
+    background-color: rgb(228, 88, 111);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+footer{
+    background-color: rgb(7, 7, 54);
+    margin-bottom: 0;
+}
+footer ul a{
+    color: white;
+}
+footer ul{
+    list-style-type: none;
+}
+.c1{
+    width: 280px;
+    background-color: rgb(228, 88, 111);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button{
+    color: white;
+    background-color: blue;
+    border-radius: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    
+}
+button:hover{
+    background-color: green;
+}
+label{
+    margin-top: 10px;
+    display: block;
+}
+input, textarea{
+    border-radius: 5px;
+    border-bottom: 2px solid grey;
+}
+button{
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    background-color: greenyellow;
+}
+button:visited{
+    background-color: green;
+}
+button a{
+    color: white;
+}
+#i1{
+    width: 280px;
+}
+section{
+    display: flex;
+    gap: 50px;
+}

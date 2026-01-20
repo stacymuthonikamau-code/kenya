@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(243, 230, 156);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-top: 100px;
+}
+form{
+    background-color: rgba(230, 157, 181, 0.767);
+    width: 300px;
+    border-radius: 5px;
+    margin: 130px; 
+    margin-top: 0
+    ;
+}

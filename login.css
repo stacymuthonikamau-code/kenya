@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(243, 230, 156);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+label{
+    display: block;
+    margin-top: 20px;
+}
+textarea, input{
+    border-radius: 5px;
+    border-bottom: 2px solid grey;
+}
+button a{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+button{
+    background-color: blue;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: greenyellow;
+}
+button:visited{
+    background-color: green;
+}
+footer ul{
+    list-style: none;
+    background-color: navy;
+}
+footer{
+    margin-bottom: 0;
+}
+footer ul a{
+    color: white;
+}
+form{
+    background-color: rgba(230, 157, 181, 0.767);
+    width: 300px;
+    border-radius: 5px;
+    justify-content: center;
+    margin: 150px;
+    margin-bottom: 5px;
+}
